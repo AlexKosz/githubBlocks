@@ -1,0 +1,44 @@
+body{
+    background-color: #d5d6da;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+h1{
+    color: #1f3385;
+    font-size: 45px;
+}
+
+p, a{
+    font-size: 20px;
+}
+
+
+.row{
+    display: flex;
+    height: 250px;
+    margin: 5px 0 5px;
+}
+
+#one{
+    background-color: #135832;
+}
+
+#two{
+    background-color: #6379cf;
+}
+
+#three{
+    background-color: #c43a17;
+}
+
+.image{
+    height:200px;
+    margin:auto;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
